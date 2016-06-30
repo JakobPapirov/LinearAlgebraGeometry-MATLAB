@@ -10,4 +10,4 @@ Distance from a point to a plane.
 Distance from a line to a plane.
 Transpose matrix.
 
-I will try to add bases, orthogonal projections, and other functions.
+I will try to add bases, orthogonal projections, reduced row echelon form, and other functions.
